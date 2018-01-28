@@ -1,3 +1,7 @@
+DNA to RNA autoencoder
+
+There are two ways to obtain importnat genetic information from biological samples: DNA MicroArrays and the RNAseq technology.
+
 Currently there are two separate autoencoders created in this project:
 
 1) DNA-data AE can compress the given gene expression values obtained from biological microarrays twice (32 dimensions to 16). Also this model can be useful to find anomaly values and detect unusual behavior of the genes.
